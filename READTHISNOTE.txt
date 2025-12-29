@@ -1,1 +1,16 @@
-IM WORKING ON DEOBFUSCATING THIS FILE, I FACTORY RESET MY PC AFTER IT WAS FINISHED SO THERE IS NO SOURCE CODE AVAILIBLE AT THIS TIME BUT YOU CAN ALSO RUN IT THROUGH VIRUSTOTAL IF YOU ARE STILL UNSURE ABOUT DOWNLOADING CLOUDZCLICKER
+NOTE TO USERS:
+
+This project currently only provides a compiled binary.
+The original source code was lost due to a system reset, and I am actively working on recreating and cleaning up the source so it can be published here.
+
+CLOUDZCLICKER is an autoclicker only.
+It does NOT include:
+- keyloggers
+- malware
+- network communication
+- data collection of any kind
+
+If you are unsure, please do not run the program on your main system.
+You are encouraged to scan the file with VirusTotal or run it in a sandbox/VM.
+
+Once the source code is available, it will be added to this repository so users can verify everything themselves.

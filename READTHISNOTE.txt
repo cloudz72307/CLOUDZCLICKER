@@ -1,16 +1,9 @@
-NOTE TO USERS:
+CLOUDZCLICKER – Important Information
 
-This project currently only provides a compiled binary.
-The original source code was lost due to a system reset, and I am actively working on recreating and cleaning up the source so it can be published here.
+The executable for CLOUDZCLICKER is currently hosted on Mega.nz because GitHub limits individual files to 25MB, and this file is about 44MB. While this allows users to access the program, it does mean the download is not directly on GitHub, which some users might find less convenient or less familiar than the usual repository files. 
 
-CLOUDZCLICKER is an autoclicker only.
-It does NOT include:
-- keyloggers
-- malware
-- network communication
-- data collection of any kind
+At the moment, the source code is temporarily unavailable. The reason is that the original file is obfuscated, and we are in the process of cleaning it up and preparing it for public release. The lack of immediate source code might concern users who prefer to compile from scratch or inspect every line of code. However, this does not mean the program is unsafe; it simply reflects the current development status.
 
-If you are unsure, please do not run the program on your main system.
-You are encouraged to scan the file with VirusTotal or run it in a sandbox/VM.
+For users who want extra assurance, the executable can be scanned with VirusTotal (https://www.virustotal.com) before running it. This gives atleast boost your confidence that this file is safe and ensures transparency, even while the source code is not yet fully available.
 
-Once the source code is available, it will be added to this repository so users can verify everything themselves.
+Overall, while the current setup has some limitations—hosted externally and temporarily lacking source code—it allows users to try CLOUDZCLICKER safely and gives the team time to release a clean, fully verifiable version in the future.

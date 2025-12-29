@@ -1,0 +1,2 @@
+# CLOUDZCLICKER
+autoclicker
